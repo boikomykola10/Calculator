@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     static Scanner scanner = new Scanner(System.in);
-
+    // comment
     public static void main(String[] args) {
         int num1 = getNum();
         int num2 = getNum();
